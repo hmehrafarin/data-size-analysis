@@ -1,6 +1,6 @@
 # Data Size Analyses
 
-This is the repository for the ACL Findings '22 paper "On the Importance of Data Size in Probing Fine-tuned Models".
+This is the repository for the ACL Findings '22 paper [On the Importance of Data Size in Probing Fine-tuned Models](https://aclanthology.org/2022.findings-acl.20/).
 
 # Getting Started
 
