@@ -6,7 +6,7 @@ This is the repository for the ACL Findings '22 paper [On the Importance of Data
 
 1. Fine-tune and save your model
 
-    We have provided some checkpoints of our fine-tuned models which can be downloaded from [here](). To use your models make sure you change the following line in `SentEval_Probing_notebook.ipynb` to the path where your model is saved:
+    We have provided some checkpoints of our fine-tuned models which can be downloaded from [here](https://drive.google.com/drive/folders/1Yuu1bAQt-azSI7clM0_6ovabjvQy-skO?usp=sharing). To use your models make sure you change the following line in `SentEval_Probing_notebook.ipynb` to the path where your model is saved:
     
         SAVED_MODELS_DIR = "PATH TO YOUR MODEL"
 
